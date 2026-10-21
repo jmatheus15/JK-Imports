@@ -1,0 +1,10 @@
+# Material bruto e de terceiros: fica só no computador
+referencias/
+meus-produtos/
+imagens-site/
+video-bruto/
+sitede10k-skill.zip
+
+# Ferramentas locais
+.claude/
+hostgator.env
